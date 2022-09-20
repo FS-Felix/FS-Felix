@@ -18,7 +18,6 @@ Nice to meet you! My name is Félix. I'm a Full Stack Developer 👨‍💻💻 
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat"/>
     <img src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=fff&style=flat"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"/>
-    <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=flat"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"/>
     <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=flat"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat"/>
@@ -37,12 +36,11 @@ Nice to meet you! My name is Félix. I'm a Full Stack Developer 👨‍💻💻 
     
 <p>
     <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat"/>
-    <img src="https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=fff&style=flat"/>
-    <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat"/>  
-    <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Symfony-000?logo=symfony&logoColor=fff&style=flat"/>
+    <img src="https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=flat"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat"/>
+    <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat"/>
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=flat"/>
 </p>
 
 ### 📷 My Profile Photo

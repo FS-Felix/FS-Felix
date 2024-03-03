@@ -21,10 +21,13 @@ Nice to meet you! My name is Félix. I'm a Full Stack Developer 👨‍💻💻 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"/>
     <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=flat"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat"/>
     <img src="https://img.shields.io/badge/Odoo-b691b7?&style=flat"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat"/>
+    <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=fff&style=flat"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat"/>
+    <img src="https://img.shields.io/badge/PrestaShop-DF0067?logo=prestashop&logoColor=fff&style=flat"/>
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"/>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat"/>
     <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat"/>
@@ -36,11 +39,7 @@ Nice to meet you! My name is Félix. I'm a Full Stack Developer 👨‍💻💻 
     
 <p>
     <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat"/>
-    <img src="https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=flat"/>
-    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat"/>
-    <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat"/>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat"/>
-    <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=flat"/>
 </p>
 
 ### 📷 My Profile Photo
